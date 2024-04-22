@@ -29,9 +29,6 @@ An Android calculator app that allows users to perform basic arithmetic operatio
 - **Responsive Layout**: Adjusts to fit various screen sizes and orientations.
 - **Error Handling**: Handles invalid inputs and displays appropriate error messages.
 
-## Screenshots
-
-[Insert screenshots of your app here]
 
 ## Getting Started
 
