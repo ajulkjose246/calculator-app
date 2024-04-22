@@ -4,7 +4,7 @@
 
 An Android calculator app that allows users to perform basic arithmetic operations. It features a user-friendly interface, responsive layout, and error handling for invalid inputs.
 
-# Bit-Chat: Screenshots
+# Calculator : Screenshots
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -16,7 +16,7 @@ An Android calculator app that allows users to perform basic arithmetic operatio
 </div>
 
 <!-- Download All Button -->
-## Bit-Chat: Download
+## Calculator : Download
 
 <a href="https://drive.google.com/file/d/1e15ppOjUyE3ZwBZn64771x3N6WQAgptv/view?usp=sharing" download style="display: block; margin-top: 20px; padding: 10px 20px; background-color: #007bff; color: #fff; text-align: center; text-decoration: none; border-radius: 5px; cursor: pointer;">
     Download App
